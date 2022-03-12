@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6, p, span{
+    margin: 0;
+    padding: 0; 
+}
+
+
+
+.box{
+    width: 500px;
+    height: 500px;
+    background: rgb(185, 133, 133);
+    margin: 70px auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.box>input{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+
+
